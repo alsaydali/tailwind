@@ -1,0 +1,24 @@
+{
+  "name": "tailwind",
+  "version": "1.0.0",
+  "description": "Tailwind Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alsaydali/tailwind.git"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "Tailwind"
+  ],
+  "author": "Marwan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alsaydali/tailwind/issues"
+  },
+  "homepage": "https://github.com/alsaydali/tailwind#readme"
+}
