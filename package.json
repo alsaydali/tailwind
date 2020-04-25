@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/alsaydali/tailwind/issues"
   },
-  "homepage": "https://github.com/alsaydali/tailwind#readme"
+  "homepage": "https://github.com/alsaydali/tailwind#readme",
+  "dependencies": {
+    "tailwindcss": "^1.3.5"
+  }
 }
